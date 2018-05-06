@@ -88,7 +88,7 @@ while decrement:
 
 
 text_data = []
-with open('data/articles2.csv') as fh:
+with open('data/articles3.csv') as fh:
     csvreader = csv.reader(fh)
     for row in csvreader:
         title = row[2].strip().split('-')[0]
