@@ -1,0 +1,9 @@
+env/
+data/
+*.pkl
+*.gensim
+*.state
+*.id2word
+*.npy
+.idea/
+test_load.py
