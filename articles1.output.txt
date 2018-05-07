@@ -1,4 +1,4 @@
-i(0, '0.008*"people" + 0.004*"would" + 0.004*"think" + 0.004*"first"')
+(0, '0.008*"people" + 0.004*"would" + 0.004*"think" + 0.004*"first"')
 (1, '0.006*"people" + 0.005*"president" + 0.005*"SCREEN_NAME" + 0.005*"million"')
 (2, '0.023*"trump" + 0.011*"clinton" + 0.007*"state" + 0.006*"would"')
 (3, '0.006*"state" + 0.005*"police" + 0.005*"would" + 0.004*"could"')
