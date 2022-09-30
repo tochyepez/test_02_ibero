@@ -15,7 +15,7 @@ gensim==3.4.0
 idna==2.6
 Jinja2==2.10
 jmespath==0.9.3
-joblib==0.11
+joblib==1.2.0
 MarkupSafe==1.0
 more-itertools==4.1.0
 msgpack-numpy==0.4.1
